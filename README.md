@@ -1,3 +1,5 @@
-# Agregamos un readme
+### Agregamos un readme
 
-# Titulo del mismo
+### Titulo del mismo
+
+### Clase 2 (14/9)
